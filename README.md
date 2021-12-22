@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AJakif" alt="AJakif" />
 
-<img alt="Night Coding" src="https://www.github.com/AJakif/AJakif/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/AJakif/AJakif/blob/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
