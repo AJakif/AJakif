@@ -52,8 +52,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🏷️ &nbsp;Links
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) : [link](https://stackoverflow.com/users/16421270/ahmed-jahin-akif)&nbsp;
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) : [link](https://www.hackerrank.com/aahmedjahin)&nbsp;
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&nbsp; : [link](https://stackoverflow.com/users/16421270/ahmed-jahin-akif)&nbsp;
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)&nbsp; : [link](https://www.hackerrank.com/aahmedjahin)&nbsp;
 
 ### Github Stats
 
