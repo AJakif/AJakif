@@ -1,68 +1,138 @@
-## Hi there 👋 I'm [Ahmed Jahin Akif](https://www.linkedin.com/in/ajakif/)
-> Software Engineer at [Echologyx Ltd](https://echologyx.com/)
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Ahmed Jahin Akif</h1>
 
-<img src="https://komarev.com/ghpvc/?username=AJakif" alt="AJakif" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer;Generative+AI+Developer;Full+Stack+Developer;I+research,+optimize+%26+deliver" alt="Typing SVG" />
+</div>
 
-<img alt="Night Coding" src="https://github.com/AJakif/AJakif/blob/master/assets/Night-Coding.gif" align="right"/>
+<div align="center">
+  <a href="https://linkedin.com/in/ajakif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ahmedjahinakif@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ajakif&style=for-the-badge&color=F97316" alt="Profile Views"/>
+</div>
 
-## 🛠 &nbsp;Tech Stack
 
-### 👩‍💻 Languages
+---
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white")&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
-### 🚀 Frameworks
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)&nbsp;
+### 🚀 About Me  
 
-### ⚡ Database
-![Microsoft Sql Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+- 🤖 **AI Engineer & Full Stack Developer** with expertise in **LLMs, RAG, caching & orchestration**  
+- 🏢 **Software Engineer @ Echologyx Ltd**, building **production-grade AI SaaS platforms**  
+- ⚡ Delivered **chatbot** → **10× faster** & more accurate with caching + DB optimization  
+- 🔄 Built **multi-LLM orchestration** (GPT, Gemini, Claude) with **auto-fallback switching**  
+- 🌱 Exploring **LangGraph, LangSmith & AI system design** for scalable architectures  
+- 📸 Outside code: **photographer, cyclist & traveler**, blending creativity with tech  
 
-### 👩‍💻 IDE
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
+---
 
-### 🖍 Others
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)&nbsp;
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
+## 🏆 Highlights  
 
-### 📚 Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- ⚙️ **Optimized AI Assistant** → DB fetch **10× faster** with smart caching  
+- 🤝 **Multi-LLM Orchestration** → GPT, Gemini, Claude with reliability failover  
+- 📊 **FAQ & Knowledge Engines** → Scrapers + Q&A pipelines (BeautifulSoup + Playwright)  
+- 📦 **Full Stack SaaS Apps** → .NET + Angular, React, FastAPI  
+- 🚀 **AI SaaS Products** → Focused on scalability, speed & user experience  
 
-## 🏷️ &nbsp;Links
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&nbsp; : [link](https://stackoverflow.com/users/16421270/ahmed-jahin-akif)&nbsp;
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)&nbsp; : [link](https://www.hackerrank.com/aahmedjahin)&nbsp;
+---
 
-### Github Stats
+## 🛠️ Tech Stack  
 
-[![Ahmed Jahin Akif GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJakif&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/AJakif)
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AJakif&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AJakif&theme=algolia" alt="Akif" width="410" /></p>
-<br><br><br><br><br>
+<details open>
+<summary>💻 Languages</summary>
+<br>
 
-<hr>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+</details>
+
+<details open>
+<summary>🤖 AI & LLMs</summary>
+<br>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0E86D4?style=for-the-badge&logo=graphql&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-333333?style=for-the-badge&logo=airplayaudio&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AEB6BF?style=for-the-badge&logo=anthropic&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+</details>
+
+<details open>
+<summary>⚡ Frameworks</summary>
+<br>
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+</details>
+
+<details open>
+<summary>🗄️ DB & Cloud</summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</details>
+
+<details open>
+<summary>🛠 Tools</summary>
+<br>
+
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+</details>
+
+<details open>
+<summary>💻 OS</summary>
+<br>
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</details>
+
+---
+
+
+## 📊 GitHub Stats  
+
+<p align="center" width="100%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajakif&show_icons=true&layout=compact&theme=tokyonight" alt="ajakif" width="44%">
+</p>
+<p>
+  <a href="https://github.com/ajakif">
+    <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajakif&theme=tokyonight">
+  </a>
+</p>
+
+[![Akif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajakif&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+  <a href="https://stackoverflow.com/users/16421270/ahmed-jahin-akif"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://www.hackerrank.com/aahmedjahin"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://leetcode.com/u/AJakif/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.datacamp.com/profile/aahmedjahin"><img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp"/></a>
+</div>
+
+---
+<div align="center">
+  <i>🚀 Let's connect and build the future of AI + Full Stack systems together!</i>
+  <br>
+  <a href="https://github.com/ajakif?tab=repositories">🔗 Explore My Projects</a>
+</div>
